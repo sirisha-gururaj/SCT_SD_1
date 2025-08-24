@@ -38,10 +38,10 @@ namespace TempConverter
                 }
 
                 lblResult.Text =
-                    "<b>✅ Converted Values:</b><br/>" +
-                    $"<span>🌍 <b>Celsius:</b> {c:F2} °C</span><br/>" +
-                    $"<span>🔥 <b>Fahrenheit:</b> {f:F2} °F</span><br/>" +
-                    $"<span>❄️ <b>Kelvin:</b> {k:F2} K</span>";
+                    "<b>Converted Values:</b><br/>" +
+                    $"<span><b>Celsius:</b> {c:F2} °C</span><br/>" +
+                    $"<span><b>Fahrenheit:</b> {f:F2} °F</span><br/>" +
+                    $"<span><b>Kelvin:</b> {k:F2} K</span>";
             }
             catch
             {
