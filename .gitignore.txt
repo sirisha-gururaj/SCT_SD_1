@@ -1,0 +1,13 @@
+# Ignore VS and build files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.pdb
+*.pidb
+*.sln.docstates
+_ReSharper*/
