@@ -96,7 +96,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="container">
-            <h2>🌡️ Temperature Converter</h2>
+            <h2>Temperature Converter</h2>
 
             <asp:TextBox ID="txtTemperature" CssClass="input-box" runat="server" placeholder="Enter Temperature"></asp:TextBox>
             
@@ -106,7 +106,7 @@
                 <asp:ListItem>Kelvin</asp:ListItem>
             </asp:DropDownList>
 
-            <asp:Button ID="btnConvert" CssClass="btn" runat="server" Text="Convert 🔄" OnClick="btnConvert_Click" />
+            <asp:Button ID="btnConvert" CssClass="btn" runat="server" Text="Convert" OnClick="btnConvert_Click" />
 
             <div class="result-container">
                 <asp:Label ID="lblResult" runat="server" CssClass="result"></asp:Label>
