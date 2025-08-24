@@ -20,6 +20,15 @@ Users can enter a temperature value, select the unit (Celsius, Fahrenheit, Kelvi
 
 ---
 
+## Screenshot
+
+Here are some screenshots of the output:
+
+images/SCT_SD_1(0).png
+images/SCT_SD_1(1).png
+images/SCT_SD_1(2).png
+images/SCT_SD_1(3).png
+
 ## Getting Started
 
 ### Prerequisites
