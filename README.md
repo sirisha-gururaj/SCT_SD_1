@@ -20,15 +20,17 @@ Users can enter a temperature value, select the unit (Celsius, Fahrenheit, Kelvi
 
 ---
 
-## Screenshot
+# Temperature Converter - Output Screenshots
 
-Here are some screenshots of the output:
+Here are some screenshots of the output of the Temperature Converter project:
 
-images/SCT_SD_1(0).png
-images/SCT_SD_1(1).png
-images/SCT_SD_1(2).png
-images/SCT_SD_1(3).png
+![Screenshot 1](images/SCT_SD_1(0).png)
 
+![Screenshot 2](images/SCT_SD_1(1).png)
+
+![Screenshot 3](images/SCT_SD_1(2).png)
+
+![Screenshot 4](images/SCT_SD_1(3).png)
 ## Getting Started
 
 ### Prerequisites
