@@ -1,6 +1,6 @@
-# Temperature Converter
+# Temperature Converter 🌡️
 
-🌡️ An interactive temperature converter that lets users switch easily between Celsius, Fahrenheit, and Kelvin.
+An interactive temperature converter that lets users switch easily between Celsius, Fahrenheit, and Kelvin.
 
 ---
 
